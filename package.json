@@ -1,7 +1,7 @@
 {
-  "name": "zakopane-rzadkosz.pl",
+  "name": "startup-project",
   "version": "1.0.0",
-  "description": "Webpage of rzadkosz company for renting a room",
+  "description": "My own startup configuration for backend (Node.js) and Front-End (React.js)",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freestyle09/Zakopane-Rzadkosz.pl.git"
+    "url": "git+https://github.com/freestyle09/startup-project"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/freestyle09/Zakopane-Rzadkosz.pl/issues"
+    "url": "https://github.com/freestyle09/startup-project/issues"
   },
-  "homepage": "https://github.com/freestyle09/Zakopane-Rzadkosz.pl#readme",
+  "homepage": "https://github.com/freestyle09/startup-project#readme",
   "dependencies": {
     "concurrently": "^4.1.0",
     "express": "^4.16.4"
